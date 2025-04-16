@@ -55,5 +55,6 @@ This project proposes a **machine learning-based solution** that predicts whethe
 
 ## 📁 File Structure
 https://github.com/c3636726/Phising_Dashboard/tree/main/Phising
-  <img width="178" alt="SCR-20250416-qaee" src="https://github.com/user-attachments/assets/778e5238-ec6b-429b-8019-fb6b3545809d" />
+
+<img width="178" alt="SCR-20250416-qaee" src="https://github.com/user-attachments/assets/778e5238-ec6b-429b-8019-fb6b3545809d" />
 
